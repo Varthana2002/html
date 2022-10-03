@@ -7,7 +7,7 @@ iframe { border: 0; }
 
 .applies thead th > * { display: block; }
 .applies thead code { display: block; }
-.applies td { text-align: center; }
+.applies td { text-align: left; }
 
 .matrix, .matrix td { border: hidden; text-align: right; }
 .matrix, .equations { margin-left: 2em; }
